@@ -1,7 +1,7 @@
 # zgui6644_Week8_Quiz
 
 ## Part 1: Imaging Technique Inspiration
-Inspiration Artworks: Drawing with Lines
+**Inspiration Artworks: Drawing with Lines**
 ![Fisherman Line Art](readmeImages/Fisherman%20Line%20Art.JPG)
 ![Fisherman Origin](readmeImages/Fisherman%20Origin.JPG)
 ![Lighthouse Line Art](readmeImages/Lighthouse%20Line%20Art.JPG)
