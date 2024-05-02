@@ -2,17 +2,10 @@
 
 ## Part 1: Imaging Technique Inspiration
 **Inspiration Artworks: Drawing with Lines**
-![Fisherman Line Art](readmeImages/Fisherman%20Line%20Art.JPG)
-![Fisherman Origin](readmeImages/Fisherman%20Origin.JPG)
-![Lighthouse Line Art](readmeImages/Lighthouse%20Line%20Art.JPG)
-![Lighthouse Origin](readmeImages/Lighthouse%20Origin.JPG)
-![Windmill Line Art](readmeImages/Windmill%20Line%20Art.JPG)
-![Windmill Origin](readmeImages/Windmill%20Origin.JPG)
+![San_ling](readmeImages/San_ling.JPG)
 *@San_ling
-![Colorful Line1](readmeImages/Colorful%20Line1.png)
-*@Art Easy
-![Colorful Line2](readmeImages/Colorful%20Line2.jpeg)
-*@Meredith Terry
+![Colorful](readmeImages/Art%20Easy&Meredith%20Terry.JPG)
+*@Art Easy & @Meredith Terry
 ![Preferred Main Project](readmeImages/Claude_Monet,_Saint-Georges_majeur_au_crépuscule.jpg)
 *@Claude Monet
 
