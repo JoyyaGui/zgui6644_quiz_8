@@ -2,7 +2,7 @@
 
 ## Part 1: Imaging Technique Inspiration
 **Inspiration Artworks: Drawing with Lines**
-![San_ling](readmeImages/San_ling.JPG)
+![San_ling](readmeImages/San_ling1.JPG)
 *@San_ling
 ![Colorful](readmeImages/Art%20Easy&Meredith%20Terry.JPG)
 *@Art Easy & @Meredith Terry
