@@ -1,11 +1,9 @@
 # zgui6644_Week8_Quiz
 
 ## Part 1: Imaging Technique Inspiration
-**Local image**
+**Inspiration Artworks – Drawing with Lines**
 ![Fisherman Line Art](readmeImages/Fisherman%20Line%20Art.JPG)
-**Local image**
 ![Fisherman Origin](readmeImages/Fisherman%20Origin.JPG)
-**Local image**
 ![Lighthouse Line Art](readmeImages/Lighthouse%20Line%20Art.JPG)
 ![Lighthouse Origin](readmeImages/Lighthouse%20Origin.JPG)
 ![Windmill Line Art](readmeImages/Windmill%20Line%20Art.JPG)
