@@ -23,4 +23,4 @@ I prefer to choose Claude Monet's Saint Georges majeur au crépuscule as the mai
 
 **Coding Sample**
 ![Bezier Curves Sample](readmeImages/Bezier%20Curves%20Sample.png)
-The sample coding by [wangz318](https://editor.p5js.org/wangz318/sketches/HAdppoOeX).
+The sample was coded by [wangz318](https://editor.p5js.org/wangz318/sketches/HAdppoOeX).
